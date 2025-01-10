@@ -1,0 +1,25 @@
+# FOOD-LABELS - Storage Protocol
+
+DESCRIPTION
+  Standards for labeling and storing food items at Hive Helsinki
+
+PROCEDURES
+  1. LABEL REQUIREMENTS
+      - intra name clearly written or communal clearly written
+      - Date of storage clearly written
+
+  2. DURATION RULES
+      - One day storage recommended
+      - Multi-day items extra clearly marked as communal, or personal (beverages for coffee or tea, condiments, non-fridge items)
+      - No long-term storage
+
+COMMON ERRORS
+  - Unclear handwriting
+  - Missing dates
+  - Missing names
+  - Unmarked containers
+  - Fridge full of milk or condiments
+  - So many cartons of milk
+
+SEE ALSO
+  kitchen(1), fridge-deep-clean(1)
