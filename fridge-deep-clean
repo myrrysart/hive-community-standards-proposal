@@ -1,0 +1,41 @@
+# FRIDGE-DEEP-CLEAN - Quarterly Protocol
+
+DESCRIPTION
+   Standards for deep cleaning fridges at Hive Helsinki
+
+PROCEDURES
+   1. PREPARATION
+       - Announce cleaning date in Discord
+       - Get cleaning supplies ready
+       - Prepare sorting tables
+
+   2. EMPTYING
+       - Remove all items
+       - Sort into categories
+       - Check expiration dates
+       - Dispose expired items
+       - Document unlabeled items to discord
+
+   3. CLEANING
+       - Remove all shelves and drawers, including door shelves, and bottom drawer boxes
+       - Clean with appropriate agents
+       - Clean interior walls, including the door
+       - Clean door seals, including the bottom drawer
+       - Check for ice and defrost if needed, announce the defreezing on discord, use blow dryer if need be
+       - Dry thoroughly
+
+   4. RESTORATION
+       - Return clean, dry shelves
+       - Return labeled, fresh items
+       - Return unlabeled, fresh items to one specific shelf, and announce it in Discord with a deadline when the unclaimed items will become communal
+       - Update cleaning clock to give Guards/Builders/Foragers a deadline for their deep clean turn
+
+COMMON ERRORS
+   - Not drying components thoroughly
+   - Not checking for ice on the refrigation unit
+   - Not checking door seals
+   - Not cleaning the door and door shelves
+   - Not checking the bottom drawer
+
+SEE ALSO
+   kitchen(1), food-labels(1)
