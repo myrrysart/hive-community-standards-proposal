@@ -1,4 +1,4 @@
-# CLUSTER - Workspace Protocol
+# CLUSTER - Workspace Protocol Version 0.1.0(Proposal)
 
 DESCRIPTION
    Standards for maintaining clean and professional workspace at Hive Helsinki
@@ -37,3 +37,5 @@ COMMON ERRORS
 
 SEE ALSO
    hygiene(1), kitchen(1)
+
+Version 0.1.0(Proposal)
