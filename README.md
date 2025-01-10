@@ -14,13 +14,15 @@ Each manual follows a consistent format:
 - SEE ALSO: Related manuals and references
 
 ## Current Manuals
-- discussion(1) Version 0.1.0(Proposal): Guidelines for discussing and improving these standards
-- kitchen(1) Version 0.1.0(Proposal): General kitchen maintenance
-- fridge-deep-clean(1) Version 0.1.0(Proposal): Quarterly fridge cleaning protocol
-- toilet(1) Version 0.1.0(Proposal): Toilet hygiene standards
-- cluster(1) Version 0.1.0(Proposal): Workspace maintenance
-- hygiene(1) Version 0.1.0(Proposal): Personal hygiene guidelines
-- food-labels(1) Version 0.1.0(Proposal): Food storage and labeling
+|manual|version|Description|
+|------|-------|-----------|
+|discussion(1)|0.1.0(Proposal)|Guidelines for discussing and improving these standards|
+|kitchen(1)|0.1.0(Proposal)|General kitchen maintenance|
+|fridge-deep-clean(1)|0.1.0(Proposal)|Quarterly fridge cleaning protocol|
+|toilet(1)|0.1.0(Proposal)|Toilet hygiene standards|
+|cluster(1)|0.1.0(Proposal)|Workspace maintenance|
+|hygiene(1)|0.1.0(Proposal)|Personal hygiene guidelines|
+|food-labels(1)|0.1.0(Proposal)|Food storage and labeling|
 
 
 ## Philosophy
@@ -32,4 +34,4 @@ At Hive Helsinki, we operate on peer-to-peer principles. These standards are mai
 ## Discussion
 This is a living document. These guidelines are hopefully a starting point for our community standards. The discussion manual provides a framework for constructive feedback and continuous improvement of these standards.
 
-A clean and well-maintained environment helps everyone focus on learning and coding.
+A clean, safe, and well-maintained environment helps everyone focus on learning and coding.
