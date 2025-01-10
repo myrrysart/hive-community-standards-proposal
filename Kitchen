@@ -1,0 +1,45 @@
+# KITCHEN - Standards Protocol
+
+DESCRIPTION
+   Standards for maintaining kitchen cleanliness at Hive Helsinki
+
+AREAS OF RESPONSIBILITY
+   - Countertops
+   - Microwaves
+   - Refrigerators
+   - Dishwashers
+   - Floor
+   - Sinks
+
+PROCEDURES
+   1. REFRIGERATOR PROTOCOL
+       - Label all items with name and date
+       - Remove expired items when spotted
+       - Clean spills immediately
+       - One-day storage recommended
+   
+   2. MICROWAVE PROTOCOL
+       - Cover food during heating
+       - Clean spills immediately
+       - Wipe interior after each use
+       - Clean interior and exterior when dirty
+
+   3. DISHWASHER OPERATION
+       - Rinse dishes before loading
+       - Do not overfill
+       - Run when full
+       - Empty promptly when clean
+       - Report any malfunctions
+
+COMMON ERRORS
+   - Leaving dirty dishes in sink
+   - Not wiping counters after use
+   - Using fridge as personal long-term storage
+   - Not labeling products
+   - Overfilling dishwasher
+   - Running partially full dishwasher
+   - Not cleaning microwave after use
+   - Leaving dishes in sink
+
+SEE ALSO
+   fridge-deep-clean(1), toilet(1), cluster(1), hygiene(1), food-labels(1)
