@@ -1,4 +1,4 @@
-# KITCHEN - Standards Protocol
+# KITCHEN - Standards Protocol Version 0.1.0(Proposal)
 
 DESCRIPTION
    Standards for maintaining kitchen cleanliness at Hive Helsinki
@@ -43,3 +43,5 @@ COMMON ERRORS
 
 SEE ALSO
    fridge-deep-clean(1), toilet(1), cluster(1), hygiene(1), food-labels(1)
+
+Version 0.1.0(Proposal)
