@@ -14,13 +14,13 @@ Each manual follows a consistent format:
 - SEE ALSO: Related manuals and references
 
 ## Current Manuals
-- discussion(1): Guidelines for discussing and improving these standards
-- kitchen(1): General kitchen maintenance
-- fridge-deep-clean(1): Quarterly fridge cleaning protocol
-- toilet(1): Toilet hygiene standards
-- cluster(1): Workspace maintenance
-- hygiene(1): Personal hygiene guidelines
-- food-labels(1): Food storage and labeling
+- discussion(1) Version 0.1.0(Proposal): Guidelines for discussing and improving these standards
+- kitchen(1) Version 0.1.0(Proposal): General kitchen maintenance
+- fridge-deep-clean(1) Version 0.1.0(Proposal): Quarterly fridge cleaning protocol
+- toilet(1) Version 0.1.0(Proposal): Toilet hygiene standards
+- cluster(1) Version 0.1.0(Proposal): Workspace maintenance
+- hygiene(1) Version 0.1.0(Proposal): Personal hygiene guidelines
+- food-labels(1) Version 0.1.0(Proposal): Food storage and labeling
 
 
 ## Philosophy
