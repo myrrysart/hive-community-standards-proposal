@@ -33,5 +33,3 @@ At Hive Helsinki, we operate on peer-to-peer principles. These standards are mai
 This is a living document. These guidelines are hopefully a starting point for our community standards. The discussion manual provides a framework for constructive feedback and continuous improvement of these standards.
 
 A clean and well-maintained environment helps everyone focus on learning and coding.
-
-Version 0.1.0(Proposal)
