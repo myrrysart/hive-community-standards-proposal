@@ -23,13 +23,13 @@ Each manual follows a consistent format:
 |cluster(1)|0.1.0(Proposal)|Workspace maintenance|
 |hygiene(1)|0.1.0(Proposal)|Personal hygiene guidelines|
 |food-labels(1)|0.1.0(Proposal)|Food storage and labeling|
-|common(1)|0.1.0(Proposal)|Universal principles|
+|common(1)|0.1.0(Proposal)|Guideline for every situation|
 
 ## Philosophy
 At Hive Helsinki, we operate on peer-to-peer principles. These standards are maintained through community responsibility. When you see something that needs attention:
 1. Fix it if you can
 2. Report it if you can't
-3. Help others understand why it matters
+3. Help others
 
 ## Discussion
 This is a living document. These guidelines are hopefully a starting point for our community standards. The discussion manual provides a framework for constructive feedback and continuous improvement of these standards.
