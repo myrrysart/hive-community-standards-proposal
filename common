@@ -1,4 +1,4 @@
-# COMMON - Core Protocol
+# COMMON - Core Protocol Version 0.1.0(Proposal)
 
 DESCRIPTION
    Fundamental approach to all issues at Hive Helsinki
@@ -17,10 +17,8 @@ PROCEDURES
        - Ask for help in appropriate channel
 
    3. EMERGENCY RESPONSE
-       - If you can't contain it, call for help
-       - Use emergency contacts if needed
-       - Document the situation
-       - Stay until help arrives if safe
+       - Learn the hive issued emergency guidelines 
+       - follow them
 
 COMMON ERRORS
    - Ignoring problems
@@ -30,7 +28,7 @@ COMMON ERRORS
    - "Not my job" mentality
 
 EXCEPTIONS
-   - Immediate danger: Call emergency services first
+   - Immediate danger: emergency guidelines
    - Personal safety: Never compromise your safety
    - Time pressure: Acknowledge and return when able
    - Other limitations: Always okay to ask for help
