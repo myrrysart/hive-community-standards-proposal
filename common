@@ -17,7 +17,7 @@ PROCEDURES
        - Ask for help in appropriate channel
 
    3. EMERGENCY RESPONSE
-       - Learn the Hive Helsinki issued emergency guidelines 
+       - Learn the Hive Helsinki Safety & Security guidelines 
        - follow them
 
 COMMON ERRORS
@@ -28,10 +28,10 @@ COMMON ERRORS
    - "Not my job" mentality
 
 EXCEPTIONS
-   - Immediate danger: emergency guidelines
+   - Immediate danger: Safety & Security guidelines
    - Personal safety: Never compromise your safety
    - Time pressure: Acknowledge and return when able
    - Other limitations: Always okay to ask for help
 
 SEE ALSO
-   kitchen(1), toilet(1), cluster(1), hygiene(1)
+   https://meta.intra.42.fr/articles/hive-safety-security
