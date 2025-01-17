@@ -1,4 +1,4 @@
-# KITCHEN - Standards Protocol Version 0.1.0(Proposal)
+# KITCHEN - Standards Protocol Version 0.1.1(Proposal)
 
 DESCRIPTION
    Standards for maintaining kitchen cleanliness at Hive Helsinki
@@ -24,14 +24,19 @@ PROCEDURES
        - Wipe interior after each use
        - Clean interior and exterior when dirty
 
-   3. DISHWASHER OPERATION
+   3.1 DISHWASHER OPERATION
        - Rinse dishes before loading
-       - Check the plaques states
+       - Check the plaques states and correct them if needed
        - Fill only one dishwasher at a time
        - Do not overfill
        - Run when full
        - Empty promptly when clean
        - Report any malfunctions
+   3.2 DISHWASHER PLAQUE STATES
+       - CLEAN: This dishwasher contains only clean dishes, needs to be emptied
+       - DIRTY: this dishwasher contains only dirty dishes, not yet full
+       - FILL OTHER (FLIPPED PLAQUE): The other dishwasher is in DIRTY state, fill that one first
+       - "CENTER": Dishwasher is full of dirty dishes, and it is running a cleaning program
 
 COMMON ERRORS
    - Leaving dirty dishes in sink
