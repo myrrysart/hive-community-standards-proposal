@@ -17,13 +17,13 @@ Each manual follows a consistent format:
 |manual|version|Description|
 |------|-------|-----------|
 |discussion(1)|0.1.0(Proposal)|Guidelines for discussing and improving these standards|
-|kitchen(1)|0.1.0(Proposal)|General kitchen maintenance|
+|kitchen(1)|0.1.1(Proposal)|General kitchen maintenance|
 |fridge-deep-clean(1)|0.1.0(Proposal)|Quarterly fridge cleaning protocol|
 |toilet(1)|0.1.0(Proposal)|Toilet hygiene standards|
 |cluster(1)|0.1.0(Proposal)|Workspace maintenance|
 |hygiene(1)|0.1.0(Proposal)|Personal hygiene guidelines|
 |food-labels(1)|0.1.0(Proposal)|Food storage and labeling|
-
+|common(1)|0.1.0(Proposal)|Universal principles|
 
 ## Philosophy
 At Hive Helsinki, we operate on peer-to-peer principles. These standards are maintained through community responsibility. When you see something that needs attention:
